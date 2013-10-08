@@ -33,6 +33,9 @@
   "dependencies": {
     "commander": "*"
   },
+  "peerDependencies": {
+    "source-map": "~0.1.30"
+  },
   "devDependencies": {
     "mocha": "*",
     "chai": "*",
